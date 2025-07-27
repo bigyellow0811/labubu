@@ -1,0 +1,134 @@
+{
+  "list": [
+    {
+      "id": "01",
+      "url": "file:///android_asset/touchEffect/01.png"
+    },
+    {
+      "id": "02",
+      "url": "file:///android_asset/touchEffect/02.png"
+    },
+    {
+      "id": "03",
+      "url": "file:///android_asset/touchEffect/03.png"
+    },
+    {
+      "id": "04",
+      "url": "file:///android_asset/touchEffect/04.png",
+      "reward": 1
+    },
+    {
+      "id": "05",
+      "url": "file:///android_asset/touchEffect/05.png",
+      "reward": 1
+    },
+    {
+      "id": "06",
+      "url": "file:///android_asset/touchEffect/06.png",
+      "reward": 1
+    },
+    {
+      "id": "07",
+      "url": "file:///android_asset/touchEffect/07.png",
+      "reward": 1
+    },
+    {
+      "id": "08",
+      "url": "file:///android_asset/touchEffect/08.png",
+      "reward": 1
+    },
+    {
+      "id": "09",
+      "url": "file:///android_asset/touchEffect/09.png",
+      "reward": 1
+    },
+    {
+      "id": "10",
+      "url": "file:///android_asset/touchEffect/10.png",
+      "reward": 1
+    },
+    {
+      "id": "11",
+      "url": "file:///android_asset/touchEffect/11.png",
+      "reward": 1
+    },
+    {
+      "id": "12",
+      "url": "file:///android_asset/touchEffect/12.png",
+      "reward": 1
+    },
+    {
+      "id": "13",
+      "url": "file:///android_asset/touchEffect/13.png"
+    },
+    {
+      "id": "14",
+      "url": "file:///android_asset/touchEffect/14.png"
+    },
+    {
+      "id": "15",
+      "url": "file:///android_asset/touchEffect/15.png"
+    },
+    {
+      "id": "16",
+      "url": "file:///android_asset/touchEffect/16.png"
+    },
+    {
+      "id": "17",
+      "url": "file:///android_asset/touchEffect/17.png"
+    },
+    {
+      "id": "18",
+      "url": "file:///android_asset/touchEffect/18.png"
+    },
+    {
+      "id": "19",
+      "url": "file:///android_asset/touchEffect/19.png"
+    },
+    {
+      "id": "20",
+      "url": "file:///android_asset/touchEffect/20.png"
+    },
+    {
+      "id": "21",
+      "url": "file:///android_asset/touchEffect/21.png"
+    },
+    {
+      "id": "22",
+      "url": "file:///android_asset/touchEffect/22.png",
+      "reward": 1
+    },
+    {
+      "id": "23",
+      "url": "file:///android_asset/touchEffect/23.png",
+      "reward": 1
+    },
+    {
+      "id": "24",
+      "url": "file:///android_asset/touchEffect/24.png",
+      "reward": 1
+    },
+    {
+      "id": "25",
+      "url": "file:///android_asset/touchEffect/25.png",
+      "reward": 1
+    },
+    {
+      "id": "26",
+      "url": "file:///android_asset/touchEffect/26.png",
+      "reward": 1
+    },
+    {
+      "id": "27",
+      "url": "file:///android_asset/touchEffect/27.png"
+    },
+    {
+      "id": "28",
+      "url": "file:///android_asset/touchEffect/28.png"
+    },
+    {
+      "id": "29",
+      "url": "file:///android_asset/touchEffect/29.png"
+    }
+  ]
+}
