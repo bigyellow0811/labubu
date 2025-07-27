@@ -2,67 +2,67 @@
   "list": [
     {
       "id": "01",
-      "url": "file:///android_asset/touchWallpaper/01.webp"
+      "url": "touchWallpaper/01.webp"
     },
     {
       "id": "02",
-      "url": "file:///android_asset/touchWallpaper/02.webp"
+      "url": "touchWallpaper/02.webp"
     },
     {
       "id": "03",
-      "url": "file:///android_asset/touchWallpaper/03.webp"
+      "url": "touchWallpaper/03.webp"
     },
     {
       "id": "04",
-      "url": "file:///android_asset/touchWallpaper/04.webp"
+      "url": "touchWallpaper/04.webp"
     },
     {
       "id": "05",
-      "url": "file:///android_asset/touchWallpaper/05.webp"
+      "url": "touchWallpaper/05.webp"
     },
     {
       "id": "06",
-      "url": "file:///android_asset/touchWallpaper/06.webp"
+      "url": "touchWallpaper/06.webp"
     },
     {
       "id": "07",
-      "url": "file:///android_asset/touchWallpaper/07.webp"
+      "url": "touchWallpaper/07.webp"
     },
     {
       "id": "08",
-      "url": "file:///android_asset/touchWallpaper/08.webp"
+      "url": "touchWallpaper/08.webp"
     },
     {
       "id": "09",
-      "url": "file:///android_asset/touchWallpaper/09.webp"
+      "url": "touchWallpaper/09.webp"
     },
     {
       "id": "10",
-      "url": "file:///android_asset/touchWallpaper/10.webp"
+      "url": "touchWallpaper/10.webp"
     },
     {
       "id": "11",
-      "url": "file:///android_asset/touchWallpaper/11.webp"
+      "url": "touchWallpaper/11.webp"
     },
     {
       "id": "12",
-      "url": "file:///android_asset/touchWallpaper/12.webp"
+      "url": "touchWallpaper/12.webp"
     },
     {
       "id": "13",
-      "url": "file:///android_asset/touchWallpaper/13.webp"
+      "url": "touchWallpaper/13.webp"
     },
     {
       "id": "14",
-      "url": "file:///android_asset/touchWallpaper/14.webp"
+      "url": "touchWallpaper/14.webp"
     },
     {
       "id": "15",
-      "url": "file:///android_asset/touchWallpaper/15.webp"
+      "url": "touchWallpaper/15.webp"
     },
     {
       "id": "16",
-      "url": "file:///android_asset/touchWallpaper/16.webp"
+      "url": "touchWallpaper/16.webp"
     }
   ]
 }
