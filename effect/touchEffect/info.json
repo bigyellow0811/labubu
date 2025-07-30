@@ -2,133 +2,133 @@
   "list": [
     {
       "id": "01",
-      "url": "touchEffect/01.png"
+      "url": "file:///android_asset/touchEffect/01.png"
     },
     {
       "id": "02",
-      "url": "touchEffect/02.png"
+      "url": "file:///android_asset/touchEffect/02.png"
     },
     {
       "id": "03",
-      "url": "touchEffect/03.png"
+      "url": "file:///android_asset/touchEffect/03.png"
     },
     {
       "id": "04",
-      "url": "touchEffect/04.png",
+      "url": "file:///android_asset/touchEffect/04.png",
       "reward": 1
     },
     {
       "id": "05",
-      "url": "touchEffect/05.png",
+      "url": "file:///android_asset/touchEffect/05.png",
       "reward": 1
     },
     {
       "id": "06",
-      "url": "touchEffect/06.png",
+      "url": "file:///android_asset/touchEffect/06.png",
       "reward": 1
     },
     {
       "id": "07",
-      "url": "touchEffect/07.png",
+      "url": "file:///android_asset/touchEffect/07.png",
       "reward": 1
     },
     {
       "id": "08",
-      "url": "touchEffect/08.png",
+      "url": "file:///android_asset/touchEffect/08.png",
       "reward": 1
     },
     {
       "id": "09",
-      "url": "touchEffect/09.png",
+      "url": "file:///android_asset/touchEffect/09.png",
       "reward": 1
     },
     {
       "id": "10",
-      "url": "touchEffect/10.png",
+      "url": "file:///android_asset/touchEffect/10.png",
       "reward": 1
     },
     {
       "id": "11",
-      "url": "touchEffect/11.png",
+      "url": "file:///android_asset/touchEffect/11.png",
       "reward": 1
     },
     {
       "id": "12",
-      "url": "touchEffect/12.png",
-      "reward": 1
+      "url": "file:///android_asset/touchEffect/12.png"
     },
     {
       "id": "13",
-      "url": "touchEffect/13.png"
+      "url": "file:///android_asset/touchEffect/13.png"
     },
     {
       "id": "14",
-      "url": "touchEffect/14.png"
+      "url": "file:///android_asset/touchEffect/14.png"
     },
     {
       "id": "15",
-      "url": "touchEffect/15.png"
+      "url": "file:///android_asset/touchEffect/15.png"
     },
     {
       "id": "16",
-      "url": "touchEffect/16.png"
+      "url": "file:///android_asset/touchEffect/16.png",
+      "reward": 1
     },
     {
       "id": "17",
-      "url": "touchEffect/17.png"
+      "url": "file:///android_asset/touchEffect/17.png",
+      "reward": 1
     },
     {
       "id": "18",
-      "url": "touchEffect/18.png"
+      "url": "file:///android_asset/touchEffect/18.png",
+      "reward": 1
     },
     {
       "id": "19",
-      "url": "touchEffect/19.png"
+      "url": "file:///android_asset/touchEffect/19.png",
+      "reward": 1
     },
     {
       "id": "20",
-      "url": "touchEffect/20.png"
+      "url": "file:///android_asset/touchEffect/20.png",
+      "reward": 1
     },
     {
       "id": "21",
-      "url": "touchEffect/21.png"
+      "url": "file:///android_asset/touchEffect/21.png",
+      "reward": 1
     },
     {
       "id": "22",
-      "url": "touchEffect/22.png",
-      "reward": 1
+      "url": "file:///android_asset/touchEffect/22.png"
     },
     {
       "id": "23",
-      "url": "touchEffect/23.png",
-      "reward": 1
+      "url": "file:///android_asset/touchEffect/23.png"
     },
     {
       "id": "24",
-      "url": "touchEffect/24.png",
-      "reward": 1
+      "url": "file:///android_asset/touchEffect/24.png"
     },
     {
       "id": "25",
-      "url": "touchEffect/25.png",
-      "reward": 1
+      "url": "file:///android_asset/touchEffect/25.png"
     },
     {
       "id": "26",
-      "url": "touchEffect/26.png",
-      "reward": 1
+      "url": "file:///android_asset/touchEffect/26.png"
     },
     {
       "id": "27",
-      "url": "touchEffect/27.png"
+      "url": "file:///android_asset/touchEffect/27.png"
     },
     {
       "id": "28",
-      "url": "touchEffect/28.png"
+      "url": "file:///android_asset/touchEffect/28.png"
     },
     {
       "id": "29",
-      "url": "touchEffect/29.png"
+      "url": "file:///android_asset/touchEffect/29.png"
     }
   ]
 }
